@@ -1,0 +1,9 @@
+{
+    "name": "thatsus/select2-bootstrap-css",
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/thatsus/select2-bootstrap-css.git"
+        }
+    ]
+}
